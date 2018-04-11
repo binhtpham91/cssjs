@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://www.hungthinhcorp.co/du-an-can-ho-q7-complex-dao-tri-quan-7' target='_blank'><img src='https://1.bp.blogspot.com/-j69ZU7oo2NM/Wst1SAnEF6I/AAAAAAAAAfY/iIZMmAVpxx0UqwYy6yoWJlDrqMPRnCyjQCLcBGAs/s640/baner-q7riverside.jpg' width='500px'/><br/>13 Q7 Saigon Riverside Complex</a>. Giá Bán Q7 Riverside Liên Hệ: 0938797798. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://www.hungthinhcorp.co/du-an-can-ho-q7-complex-dao-tri-quan-7' target='_blank'><img src='https://1.bp.blogspot.com/-j69ZU7oo2NM/Wst1SAnEF6I/AAAAAAAAAfY/iIZMmAVpxx0UqwYy6yoWJlDrqMPRnCyjQCLcBGAs/s640/baner-q7riverside.jpg' width='500px'/><br/> Q7 Saigon Riverside Complex</a>. Giá Bán Q7 Riverside Liên Hệ: 0938797798. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
